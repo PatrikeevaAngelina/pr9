@@ -18,4 +18,3 @@ def main():
     print("Некорректный формат email.")
 if __name__ == "__main__":
   main()
-

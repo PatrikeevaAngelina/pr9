@@ -6,4 +6,3 @@ max= numbers.index(max(numbers))
 numbers[min], numbers[max] = numbers[max], numbers[min]
 
 print(f"Список после перестановки: {numbers}")
-
